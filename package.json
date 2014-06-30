@@ -44,7 +44,7 @@
   },
   "peerDependencies": {
     "grunt": "~0.4.1",
-    "sequelize": "1.7.x"
+    "sequelize": ">=1.7.x"
   },
   "keywords": [
     "gruntplugin"
