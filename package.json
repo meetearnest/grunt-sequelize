@@ -43,8 +43,7 @@
     "random-string": "~0.1.1"
   },
   "peerDependencies": {
-    "grunt": "~0.4.1",
-    "sequelize": "1.7.x"
+    "grunt": "~0.4.1"
   },
   "keywords": [
     "gruntplugin"
